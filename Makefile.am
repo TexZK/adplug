@@ -160,6 +160,7 @@ pkginclude_HEADERS = \
 	src/woodyopl.h \
 	src/nemuopl.h \
 	src/nukedopl.h \
+	src/regdumpopl.h \
 	src/mus.h \
 	src/mdi.h \
 	src/cmfmcsop.h \
